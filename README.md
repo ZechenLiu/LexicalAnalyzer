@@ -10,4 +10,4 @@ Reference: http://miner.picp.net/members/Yan/teaching/Compilers2016Spring.html
 <br>
 <br>
 LexicalAnalyzer.py: using Module re in python.<br>
-LexicalAnalyzer2.0.py: implementing regex match independently,but not using Module re in python.<br>
+LexicalAnalyzer2.0.py: implementing regex match independently without using Module re in python.<br>
